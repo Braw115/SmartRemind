@@ -1,0 +1,13 @@
+{
+  "name": "todoserver",
+  "dependencies": {
+    "glob": "registry:npm/glob#6.0.0+20160723033700",
+    "redis": "registry:npm/redis#2.6.0+20160901110043",
+    "request": "registry:npm/request#2.69.0+20160428223725",
+    "sequelize": "registry:npm/sequelize#4.0.0-1+20161101121248",
+    "validator": "registry:npm/validator#7.0.0+20170614153752",
+    "winston": "registry:dt/winston#2.3.0+20170323124512"
+  },
+  "devDependencies": {},
+  "globalDependencies": {}
+}
